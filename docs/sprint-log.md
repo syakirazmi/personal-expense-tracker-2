@@ -1,28 +1,29 @@
-# Sprint 1 Log
-
-## Sprint Goal
-
-By the end of Sprint 1, the Personal Expense Tracker project will have complete user stories with acceptance criteria, numbered requirements linked to each user story, and an organised README containing the project structure and development roadmap.
-
-## Sprint Backlog
-
-| Issue | Task | Status |
-|---|---|---|
-| #1 | Add acceptance criteria to each user story | Todo |
-| #2 | Number the requirements and link each story to one | Todo |
-| #3 | Add structure and roadmap to the README | Todo |
-
-## Sprint Activities
-
-1. Create acceptance criteria for all three user stories.
-2. Assign unique identifiers to functional and non-functional requirements.
-3. Link each user story to its relevant functional requirements.
-4. Improve README documentation by adding Documents, Project Structure and Roadmap sections.
-
 ## Sprint Review
 
-To be completed after the sprint tasks are implemented.
+**Sprint Goal Achievement:**
 
-## Retrospective
+The Sprint 1 goal was achieved by completing all three planned tasks for the Personal Expense Tracker System.
 
-To be completed after the sprint review.
+**Completed Tasks:**
+
+1. Added at least two acceptance criteria to each user story.
+2. Numbered functional and non-functional requirements and linked them to the relevant user stories.
+3. Updated the README with Documents, Project Structure and Roadmap sections.
+
+**Sprint Outcome:**
+
+All three tasks were implemented through separate feature branches and merged into the main branch using GitHub Pull Requests.
+
+## Sprint Retrospective
+
+**1. What went well?**
+
+The use of Git branches, commits and Pull Requests helped organise the development work. Breaking the project into smaller tasks also made progress easier to track.
+
+**2. What was difficult?**
+
+Managing different branches and ensuring that the correct files were updated was challenging. Synchronising local changes with the GitHub repository also required careful checking.
+
+**3. What will I change next time?**
+
+I will check the repository structure before editing files, create smaller and more frequent commits, and ensure that each feature branch is updated from the latest main branch before starting new work.
