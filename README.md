@@ -11,6 +11,29 @@ Individuals who manage their personal finances using notebooks or spreadsheets m
 - [Problem Statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User Stories](docs/user-stories.md)
+- [Sprint log](docs/sprint-log.md)
+
+## Project structure
+```
+.
+|-- README.md
+|-- LICENSE
+|-- .gitignore
+|-- docs/
+|   |-- problem-statement.md
+|   |-- requirements.md
+|   |-- user-stories.md
+|   |-- sprint-log.md
+|-- src/
+    |-- README.md      (code will go here)
+```
+
+## Roadmap
+- [x] Problem statement written
+- [ ] Requirements numbered and linked to user stories
+- [ ] User stories have acceptance criteria
+- [ ] Specialized technology chosen and explained
+- [ ] First prototype (later in the semester)
 
 ## Status
 
